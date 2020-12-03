@@ -10,7 +10,8 @@ namespace laba42
             while (again == '1')
             {
 
-
+                Console.WriteLine("Число А");
+                double A = Convert.ToDouble(Console.ReadLine());
 
 
 

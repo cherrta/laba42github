@@ -21,6 +21,9 @@ namespace laba42
                 double otv2 = A - B;
                 Console.WriteLine("Результат вычитания" + Convert.ToString(otv2));
 
+                double otv3 = A * B;
+                Console.WriteLine("Результат умножение" + Convert.ToString(otv3));
+
 
 
 

@@ -6,7 +6,37 @@ namespace laba42
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            char again = '1';
+            while (again == '1')
+            {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            }
+
         }
     }
 }

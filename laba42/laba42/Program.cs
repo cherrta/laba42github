@@ -27,25 +27,6 @@ namespace laba42
                 double otv4 = A / B;
                 Console.WriteLine("Результат деления" + Convert.ToString(otv4));
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             }
 
         }
